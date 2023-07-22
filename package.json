@@ -1,0 +1,15 @@
+{
+  "name": "fantasyapda",
+  "version": "1.0.0",
+  "description": "Fantasy Football app for College Debate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joey Rubas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lts": "^1.2.0"
+  }
+}
